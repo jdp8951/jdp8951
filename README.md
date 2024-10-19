@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Jigar Prajapati
 
-###B.Tech Computer Science Student | Data Anaylst | MERN Stack Developer | Java Developer
+B.Tech Computer Science Student | Data Anaylst | MERN Stack Developer | Java Developer
 
 I'm a passionate and driven B.Tech Computer Science student, focused on continuously learning and contributing to the tech community. With a strong interest in Machine Learning, Web Development, and IoT, I have worked on several academic and personal projects that enhance my problem-solving skills and ability to build real-world solutions. 
 
