@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Jigar Prajapati
 
+###B.Tech Computer Science Student | Data Anaylst | MERN Stack Developer | Java Developer
+
 I'm a passionate and driven B.Tech Computer Science student, focused on continuously learning and contributing to the tech community. With a strong interest in Machine Learning, Web Development, and IoT, I have worked on several academic and personal projects that enhance my problem-solving skills and ability to build real-world solutions. 
 
 ---
@@ -19,6 +21,7 @@ I'm a passionate and driven B.Tech Computer Science student, focused on continuo
 - **Smart Door Lock System Using RFID and Arduino** - Enhanced security with a smart access system.
 - **Mental Health in the Tech Industry** - Predicting mental health issues using machine learning.
 - **Student Engagement Detection** - Analyzing engagement in online classes using image processing.
+- **Spotify Clone**- Spotify Clone using Html, Css, JavaScript.
 - **Scientific Calculator in Java** - A custom physics equation solver using OOP.
 
 ---
